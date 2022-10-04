@@ -7,4 +7,7 @@ int a = 5;
 int b = 5;
 int sum = a + b;
 ```
+- [ ] Get Coffee
+- [ ] Read a book 
+- [ ] Play Soccer 
 
